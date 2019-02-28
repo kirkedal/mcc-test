@@ -22,4 +22,4 @@ hosts.
 - [ ] RISE
 - [ ] GLA
 - [ ] KRISO
-- [ ] DIKU
+- [X] DIKU
