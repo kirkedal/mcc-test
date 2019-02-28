@@ -19,7 +19,11 @@ By updating the following with an "X", I, as boardmember representing a host mem
 hosts.
 
 [ ] OFFIS
+
 [ ] RISE
+
 [ ] GLA
+
 [ ] KRISO
+
 [ ] DIKU
