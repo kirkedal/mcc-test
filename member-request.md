@@ -1,11 +1,12 @@
 # Request for regular membership by MaritimeGreatness A/S
 
-Name of organisation: MaritimeGreatness A/S
-Physical address of organisation: Maritimestreet 1
-Web page of organisation: MaritimeGreatness.com
-Contact name: XXX
-email address: info@MaritimeGreatness.com
-Would also like access to the testbed [y/n]:
+* Name of organisation: MaritimeGreatness A/S
+* Physical address of organisation: Maritimestreet 1
+* Web page of organisation: MaritimeGreatness.com
+* Contact name: XXX
+* email address: info@MaritimeGreatness.com
+* Would also like access to the testbed [y/n]:
+
 ## Rationale for becoming a member of the MCC:
 We are a maritime company. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
@@ -18,12 +19,8 @@ By updating the following with an "X", I, as boardmember representing a host mem
 *MaritimeGreatness A/S* becomes regular member of MCC with *Thomas Christensen, SG of MCC* representing the
 hosts.
 
-[ ] OFFIS
-
-[ ] RISE
-
-[ ] GLA
-
-[ ] KRISO
-
-[ ] DIKU
+- [ ] OFFIS
+- [ ] RISE
+- [ ] GLA
+- [ ] KRISO
+- [ ] DIKU
