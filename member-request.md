@@ -18,8 +18,7 @@ qui officia deserunt mollit anim id est laborum.
 By updating the following with an "X", I, as boardmember representing a host member, give my consent that 
 *MaritimeGreatness A/S* becomes regular member of MCC with *Thomas Christensen, SG of MCC* representing the
 hosts.
-
-[ ] OFFIS
+- [ ] OFFIS
 - [ ] RISE
 - [ ] GLA
 - [ ] KRISO
